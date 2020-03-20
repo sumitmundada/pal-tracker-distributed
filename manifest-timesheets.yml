@@ -12,4 +12,4 @@ applications:
   services:
   - tracker-timesheets-database
   - tracker-service-registry
-  - GRANT_TYPE: client_credentials
+  - tracker-sso
